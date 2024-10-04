@@ -21,7 +21,7 @@
     "@tailwindcss/typography": "^0.5.10",
     "@tsconfig/docusaurus": "^1.0.5",
     "@typescript-eslint/eslint-plugin": "^6.7.2",
-    "@typescript-eslint/parser": "^6.7.2",
+    "@typescript-eslint/parser": "^6.21.0",
     "autoprefixer": "^10.4.15",
     "cheerio": "^1.0.0-rc.12",
     "clsx": "^1.2.1",
