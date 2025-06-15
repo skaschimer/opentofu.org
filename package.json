@@ -15,10 +15,10 @@
     "lint": "eslint --cache \"**/*.{js,jsx,ts,tsx}\""
   },
   "dependencies": {
-    "@docusaurus/core": "3.1.0",
+    "@docusaurus/core": "3.8.0",
     "@docusaurus/module-type-aliases": "3.1.0",
     "@docusaurus/plugin-client-redirects": "3.1.0",
-    "@docusaurus/preset-classic": "3.1.0",
+    "@docusaurus/preset-classic": "3.8.0",
     "@docusaurus/tsconfig": "3.1.0",
     "@docusaurus/types": "^3.1.0",
     "@mdx-js/react": "^3.0.0",
@@ -28,7 +28,7 @@
     "autoprefixer": "^10.4.16",
     "cheerio": "^1.0.0-rc.12",
     "clsx": "^2.1.0",
-    "eslint": "^8.56.0",
+    "eslint": "^9.4.0",
     "eslint-plugin-jsx-a11y": "^6.8.0",
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
@@ -41,7 +41,7 @@
     "react-dom": "^18.2.0",
     "react-github-btn": "^1.4.0",
     "swiper": "^11.2.6",
-    "tailwindcss": "^3.4.1",
+    "tailwindcss": "^4.0.0",
     "typescript": "~5.3.3"
   },
   "browserslist": {
